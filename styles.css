@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+#Clock {
+    color: white;
+    display :flex ;
+    justify-content: center;
+    margin-top: 300px;
+    font-size: 100px;
+    letter-spacing: 10px;
+    color: rgb(87, 246, 252);
+}
